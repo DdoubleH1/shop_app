@@ -1,6 +1,5 @@
 # shop_app
 
-app_for_learning_state_management
 
 ## Getting Started
 
